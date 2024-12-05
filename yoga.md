@@ -12,3 +12,7 @@ Mejora la respiración.
 Comienza con una serie de posturas de calentamiento.
 Realiza asanas que trabajen todo el cuerpo.
 Termina con una postura de relajación o meditación.
+
+# Consejos
+Respira profundamente durante cada postura.
+No fuerces las posturas; escucha a tu cuerpo.
