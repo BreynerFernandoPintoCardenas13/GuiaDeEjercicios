@@ -12,3 +12,7 @@ Es de bajo impacto, ideal para personas con lesiones.
 Comienza con un calentamiento en el agua.
 Realiza series de 4-6 largos en diferentes estilos (crawl, espalda, pecho).
 Haz un enfriamiento con nado suave.
+
+# Consejos
+Mantén una respiración constante.
+Cambia de estilo para trabajar diferentes músculos.
