@@ -12,3 +12,7 @@ Mejora la postura.
 Comienza con estiramientos dinámicos para calentar.
 Realiza estiramientos estáticos, manteniendo cada uno de 20 a 30 segundos.
 Concédele especial atención a los músculos más tensos.
+
+## Consejos
+No rebotes al estirar, mantén una posición constante.
+Estira todos los grupos musculares principales.
