@@ -12,3 +12,7 @@ Incrementa la fuerza general.
 Comienza con un calentamiento ligero.
 Realiza ejercicios con pesas o tu propio peso corporal.
 Realiza 3-4 series de 8-12 repeticiones por ejercicio.
+
+## Consejos
+Mantén una postura adecuada para evitar lesiones.
+Progresivamente aumenta el peso para mejorar la fuerza.
