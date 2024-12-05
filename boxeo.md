@@ -12,3 +12,7 @@ Reduce el estrés y mejora la agilidad.
 Comienza con un calentamiento de saltos o ejercicios ligeros.
 Realiza combos de golpes y esquivas en el saco o con un compañero.
 Termina con un enfriamiento y estiramientos.
+
+# Consejos
+Mantén los puños en alto para proteger la cara.
+Enfócate en la técnica y el ritmo.
