@@ -12,3 +12,7 @@ Fortalece todo el cuerpo.
 Comienza con un calentamiento general.
 Realiza ejercicios como sentadillas, levantamientos y movimientos en 3D.
 Haz 3-4 circuitos de 10-15 repeticiones por ejercicio.
+
+# Consejos
+Mantén siempre el control de tus movimientos.
+Realiza ejercicios que involucren varias partes del cuerpo.
