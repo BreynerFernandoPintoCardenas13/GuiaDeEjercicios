@@ -7,3 +7,8 @@ El boxeo es un deporte que combina trabajo cardiovascular, fuerza y agilidad, ce
 Mejora la resistencia cardiovascular.
 Aumenta la fuerza y la coordinación.
 Reduce el estrés y mejora la agilidad.
+
+# Instrucciones
+Comienza con un calentamiento de saltos o ejercicios ligeros.
+Realiza combos de golpes y esquivas en el saco o con un compañero.
+Termina con un enfriamiento y estiramientos.
