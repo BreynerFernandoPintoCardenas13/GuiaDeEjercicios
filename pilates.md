@@ -12,3 +12,7 @@ Aumenta la flexibilidad.
 Comienza con una breve serie de estiramientos.
 Realiza ejercicios como el "Roll Up" y "Plank" para trabajar el core.
 Realiza 10-15 repeticiones por ejercicio.
+
+# Consejos
+Mantén el control en cada movimiento.
+Concédele especial atención a tu respiración.
